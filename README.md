@@ -12,4 +12,6 @@ https://gouravk96.github.io/Archery-Website/
 
 ![alt text](/media/homepage.PNG)
 
-
+![alt HomePage](/media/HomePage2.PNG)
+![alt HomePage](/media/aboutpage.PNG)
+![alt HomePage](/media/services.PNG)
