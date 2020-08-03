@@ -10,5 +10,6 @@ https://gouravk96.github.io/Archery-Website/
 
 ## Arhery Website Screenshoots
 
-![alt text](/media/homepppage.PNG)
+![alt text](/media/homepage.PNG)
+
 
